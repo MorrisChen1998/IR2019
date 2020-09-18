@@ -1,0 +1,1 @@
+執行runBM25Model.py即可執行

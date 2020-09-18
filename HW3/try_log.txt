@@ -1,0 +1,12 @@
+2019-11-07_020445answer.txt
+a=0.1, b=0.1
+2019-11-07_021347answer.txt
+a=0.01, b=0.01
+2019-11-07_023957answer.txt
+a=0, b=0
+
+
+2019-11-08_023009answer.txt
+a = 0.1, b = 0.05, training 50 times
+2019-11-08_024413answer.txt
+a = 0.17, b = 0.03, training 50 times

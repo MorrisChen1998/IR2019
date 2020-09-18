@@ -1,0 +1,1 @@
+執行runBM25ModelWithRocchio.py即可執行

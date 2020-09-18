@@ -1,0 +1,1 @@
+runVectorSpaceModel.py run下去，結束
